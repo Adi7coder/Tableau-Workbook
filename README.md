@@ -1,8 +1,7 @@
 Titanic Dataset – Tableau Visualizations
 
-This repository contains Tableau visualizations created from the classic Titanic dataset, exploring survival patterns, demographic distributions, and relationships between features.
-
-🧾 Dataset
+This repository contains a folder with Tableau visualizations created from the classic Titanic dataset and Coffee dataset, exploring survival patterns, demographic distributions, and relationships between features.
+The coffee tableau workbook is inside the folder.
 
 The dataset used is the standard Titanic.csv, containing features such as:
 
